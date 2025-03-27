@@ -23,25 +23,21 @@ YONETWORK Facturation est une application web complète de gestion de factures d
 
 ## Installation
 
-1. Cloner le dépôt
-   bash
+1. Cloner le dépôt bash
    git clone <url-du-repo>
    cd GESTION FACTURE
    
 
-2. Installer les dépendances
-   bash
+2. Installer les dépendances bash
    npm install
    
 
 3. Configurer l'URL de l'API dans src/services/api.ts
-   javascript
-   const API_URL = 'https://api.yonetwork.ma'; // À modifier selon votre environnement
+   javascript const API_URL = 'https://api.yonetwork.ma'; // À modifier selon votre environnement
    
 
 4. Lancer l'application en mode développement
-   bash
-   npm run dev
+   bash npm run dev
    
 
 ## Structure du Projet
