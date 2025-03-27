@@ -2,7 +2,7 @@
 
 ## Description du Projet
 
-YONETWORK Facturation est une application web complète de gestion de factures développée pour YONETWORK S.A.R.L. Cette application permet de créer, gérer, visualiser et télécharger des factures professionnelles, avec un système d'authentification sécurisé basé sur JWT.
+Systeme de Facturation est une application web complète de gestion de factures développée pour YONETWORK S.A.R.L. Cette application permet de créer, gérer, visualiser et télécharger des factures professionnelles, avec un système d'authentification sécurisé basé sur JWT.
 
 ## Fonctionnalités Principales
 
